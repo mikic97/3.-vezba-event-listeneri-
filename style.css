@@ -1,0 +1,27 @@
+
+
+.box {
+  display:inline-block;
+  color: aquamarine;
+  background-color: green;
+  width: 250px;
+  height:250px;
+}
+
+.box2 {
+  display:inline-block;
+  color: white;
+  background-color: red;
+  width: 250px;
+  height:250px;
+  
+}
+
+.box3 {
+  display:inline-block;
+  color: white;
+  background-color: purple;
+  width: 250px;
+  height:250px;
+}
+
