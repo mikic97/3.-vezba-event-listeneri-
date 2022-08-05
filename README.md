@@ -1,2 +1,1 @@
-# 3.-vezba-event-listeneri-
-vezba za event listenere 
+# 3.- Event Listener Types 
